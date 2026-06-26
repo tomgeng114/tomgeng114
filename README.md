@@ -1,48 +1,33 @@
 # Hi, I'm Tom 👋
 
-软件工程专业学生，专注于 AI Agent、智能决策系统和全栈开发。
+大二软件工程学生，专注于 AI Agent 与数据分析项目。
 
-## Current Project
+## 🚀 Featured Projects
 
-### WorldCup-Prediction-Agent
+### 🤖 Research-Agent
+Multi-Agent AI Research System powered by FastAPI + Tavily Search
 
-面向体育赛事分析场景的智能决策 Agent 原型系统。
+功能：
+- Planner / Researcher / Writer 多智能体协作
+- Tavily 实时联网搜索
+- SQLite 长期记忆
+- SSE 流式输出
+- 自动生成研究报告
 
-核心能力：
+🔗 项目地址：
+https://github.com/tomgeng114/Research-Agent
 
-* Multi-Model Reasoning
-* Decision Layer v3
-* Lineup Intelligence
-* Monte Carlo Simulation
-* Explainable Prediction
+---
 
-## Tech Stack
+### ⚽ WorldCup-Prediction-Agent
+世界杯足球比赛预测系统
 
-Backend
+功能：
+- ELO 评分模型
+- Poisson 进球分布
+- 概率校准
+- 回测系统
+- 前后端可视化
 
-* Python
-* FastAPI
-
-Frontend
-
-* Next.js
-* TypeScript
-
-AI & Data
-
-* ELO Rating
-* Poisson Model
-* Monte Carlo
-* Data Analysis
-
-## Current Focus
-
-* Agent Framework
-* Context Engineering
-* Multi-Agent Systems
-* AI Workflow Design
-
-## Goals
-
-希望持续探索 Agent 系统设计与智能决策方向，并参与真实 AI 产品研发。
-
+🔗 项目地址：
+https://github.com/tomgeng114/WorldCup-Prediction-Agent
